@@ -1,0 +1,10 @@
+C:\Users\gu425d\AppData\Local\Temporary Projects\18BinarySearch\bin\Debug\18BinarySearch.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\18BinarySearch\bin\Debug\18BinarySearch.pdb
+C:\Users\gu425d\AppData\Local\Temporary Projects\18BinarySearch\obj\x86\Debug\18BinarySearch.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\18BinarySearch\obj\x86\Debug\18BinarySearch.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\18BinarySearch\18BinarySearch\obj\x86\Debug\18BinarySearch.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\18BinarySearch\18BinarySearch\obj\x86\Debug\18BinarySearch.pdb
+C:\Users\GARRET\Documents\GitHub\18BinarySearch\18BinarySearch\obj\x86\Debug\18BinarySearch.exe
+C:\Users\GARRET\Documents\GitHub\18BinarySearch\18BinarySearch\obj\x86\Debug\18BinarySearch.pdb
+C:\Users\GARRET\Documents\GitHub\18BinarySearch\18BinarySearch\bin\Debug\18BinarySearch.exe
+C:\Users\GARRET\Documents\GitHub\18BinarySearch\18BinarySearch\bin\Debug\18BinarySearch.pdb
